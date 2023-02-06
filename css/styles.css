@@ -1,0 +1,262 @@
+html {
+    scroll-behavior: smooth;
+   }
+   .row{
+     margin-left: 0;
+     margin-right: 0;
+   }
+   .my-btn:hover{
+     color: #31326f;
+     background-color: white;
+   }
+   /* NAVBAR */
+   .my-bg{
+     background-color: #31326f
+   }
+   .nav-link{
+     color: white;
+   }
+   .my-btn{
+     color: white;
+   }
+   
+   /* INTRODUCTION */
+   .introduction{
+     text-align: center;
+   }
+   #intro-img{
+     width: 100%;
+     padding:50px 0px
+   }
+   #intro-head{
+     font-family: 'Montserrat', sans-serif;
+     padding:10rem 0;
+   }
+   #intro-text{
+     font-family: 'Ubuntu', sans-serif;
+     margin-bottom: 2rem;
+   }
+   .intro-link-head{
+     display: inline;
+     padding: 1rem 2rem;
+     border: solid;
+     color: #31326f;
+   }
+   .intro-link-head:hover{
+     color: white;
+     background-color:#31326f;
+   }
+   .intro-link:hover{
+     text-decoration: none;
+   }
+   
+   
+   
+   /* NOTICES AND LINKS SECTION */
+   .notice-head{
+     font-family: 'Bree Serif', serif;
+   }
+   .icon{
+     padding-right: 10px;
+   }
+   
+   .notice-link{
+     color: #34626c;
+   }
+   .notice-link:hover{
+     text-decoration: none;
+     color: red;
+   }
+   .notice-panel{
+     margin: 50px 20px;
+     padding: 20px;
+     border: solid;
+     text-align: center;
+   }
+   .notice-head{
+     padding: 20px 0px;
+     margin-bottom: 20px;
+     border-top: solid;
+     border-bottom: solid;
+     color: #31326f;
+   }
+   .links-head{
+     margin: 50px 20px;
+     padding: 20px;
+     border: solid;
+     text-align: center;
+     background-color: #31326f;
+     color: white;
+   }
+   .links-head:hover{
+     background-color: white;
+     color: #31326f
+   }
+   .my-links:hover{
+     text-decoration: none;
+   }
+   
+   
+   
+   
+   
+   .section-diff{
+     margin-top: 50px;
+     margin-bottom: 100px;
+   }
+   
+   /* QUESTIONS SECTION */
+   .my-container{
+     margin-left: 50px;
+     margin-right: 50px;
+   }
+   .my-panel{
+     padding: 20px;
+     background-color: #31326f;
+     color: white;
+     margin: 10px;
+   }
+   .question{
+     font-family: 'Roboto Slab', serif;
+     margin: 10px 0;
+   }
+   .answer{
+     font-family: 'Raleway', sans-serif;
+     margin-top: 50px;
+     margin-bottom: 20px;
+   }
+   #after-questions{
+     margin-top: 10rem;
+   }
+   
+   
+   
+   /* GALLERY */
+   #gallery{
+     text-align: center;
+   }
+   .gallery-head{
+     padding-bottom: 5rem;
+     font-family: 'Ubuntu', sans-serif;
+   }
+   .gallery-images{
+     width: 100%;
+     padding:10px 0;
+   }
+   #gallery-btn{
+     margin:50px 0;
+   }
+   #gallery-link:hover{
+     text-decoration: none;
+   }
+   /* CLUBS AND COUNCILS */
+   .clubs-head{
+     margin-bottom: 5rem;
+   }
+   #clubs-and-councils{
+     text-align: center;
+     font-family: 'Ubuntu', sans-serif;
+   }
+   .my-card{
+     border: solid 0.5px;
+     padding-bottom: 20px;
+     margin-top: 10px;
+   }
+   #TPC-img{
+     width: 70%
+   }
+   #TDL-img{
+     width: 90%
+   }
+   #CSC-img{
+     margin-bottom: 20px;
+   }
+   .div-link{
+     color: black;
+   }
+   .div-link:hover{
+     text-decoration: none;
+   }
+   .my-card{
+     transition: border 0.125s;
+   }
+   .my-card:hover{
+     border: solid 4px;
+   }
+   
+   
+   /* EVENTS AND FESTS */
+   #events-and-fests{
+     text-align: center;
+   }
+   .events-head{
+     font-family: 'Ubuntu', sans-serif;
+     margin-bottom: 5rem
+   }
+   #after-fests{
+     margin-top: 10rem;
+   }
+   
+   
+   /* MAPS */
+   #map{
+     text-align: center;
+   }
+   .map-head{
+     margin-bottom: 5rem;
+     font-family: 'Ubuntu', sans-serif;
+   }
+   #after-map{
+     margin-bottom: 0;
+     padding-bottom: 0;
+   }
+   /* FOOTER */
+   #footer{
+     background-color: #31326f;
+     color: white;
+   }
+.space
+{position: absolute;
+    bottom: 0;
+    width: 100%;}
+
+   .footer-link{
+     color: white
+   }
+   .footer-link:hover{
+     text-decoration: none;
+     color: #aaaaaa;
+   }
+   
+   
+   
+   
+   
+   
+   /* SIGN-UP */
+   .white-background{
+     background-color: white;
+     text-align: center;
+   }
+   .email{
+     padding-top: 0
+   }
+   .name-input{
+     padding-top: 0;
+     padding-bottom: 0
+   }
+   .password{
+     padding-top: 0
+   }
+   .sign-up-card{
+     margin-top: 6rem
+   }
+   .sign-up-head{
+     padding-top: 2rem;
+     padding-bottom: 2rem;
+     font-family: 'Montserrat', sans-serif;
+   }
+   #ask-question{
+     padding: 5px; 
+   }
+   
